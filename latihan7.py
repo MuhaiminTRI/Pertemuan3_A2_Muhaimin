@@ -1,6 +1,6 @@
 z=[1,2,3,4, 'Alice', 'Bob']
-z.sort(key=str)
-print(z)
+x=z.sort(key=str)
+print(x)
 print("Hello there!\nHow are you?\nI\'m doing fine")
 
 multi_line="""Hello there!
