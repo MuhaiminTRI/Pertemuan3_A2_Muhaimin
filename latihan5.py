@@ -7,8 +7,12 @@ print(blog)
 string='Klinik''Python'
 print(string)
 buah='Nanas'
-buah[0]
-buah[0:2]
-buah[0:4]
-buah[0:5]
+g=buah[0]
+s=buah[0:2]
+d=buah[0:4]
+f=buah[0:5]
 print(buah)
+print(g)
+print(s)
+print(d)
+print(f)
